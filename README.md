@@ -1,0 +1,2 @@
+# SchrodingerHat project template
+
