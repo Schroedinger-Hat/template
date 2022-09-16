@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "abe-101",
+      "name": "Abe Hanoka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82916197?v=4",
+      "profile": "https://www.habet.dev",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "SH-project-template",
+  "projectOwner": "Schrodinger-Hat"
+}
