@@ -1,7 +1,3 @@
-# SchrodingerHat project template
-
-## Contributors
-
 <div align='center'>
   
 [![Contributors][contributors-shield]][contributors-url]
