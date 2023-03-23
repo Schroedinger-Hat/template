@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Teamplate</h1>
+  <h1>Template</h1>
   
   <a href="https://github.com/Schrodinger-Hat/template">
     <img src="public/sh.png" alt="Logo" width="80" height="80">
